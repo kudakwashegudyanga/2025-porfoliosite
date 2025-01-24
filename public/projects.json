@@ -1,29 +1,31 @@
 [
     {
       "id": 1,
-      "title": "Finance",
-      "category": "Web development",
-      "image": "images/movies.png",
-      "href": "https://moviesapk.vercel.app/"
+      "title": "Skillhunt",
+      "category": "Applications",
+      "image": "./images/snipping new.PNG",
+      "href": "https://skillhuntjobs.netlify.app"
     },
     {
       "id": 2,
-      "title": "Orizon",
+      "title": "Ecommerce website",
       "category": "Web development",
       "image": "images/ekomespro.png",
       "href" : "https://ecomerce-site-taupe.vercel.app/"
     },
     {
       "id": 3,
-      "title": "Fundo",
-      "category": "Web design",
-      "image": "images/project-3.jpg"
+      "title": "MovieApk",
+      "category": "Applications",
+      "image": "./images/movies.png",
+      "href" : "https://ecomerce-site-taupe.vercel.app/"
     },
     {
       "id": 4,
       "title": "Brawlhalla",
-      "category": "Applications",
-      "image": "images/ekomespro.png"
+      "category": "Web development",
+      "image": "./images/fruitweb.PNG",
+      "href" : "https://fruits-selling-tcj.netlify.app/"
     },
     {
       "id": 5,
