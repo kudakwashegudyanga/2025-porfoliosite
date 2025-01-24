@@ -31,7 +31,8 @@
       "id": 5,
       "title": "DSM.",
       "category": "Web design",
-      "image": "images/project-5.png"
+      "image": "images/resume cover.png",
+      "href" : "https://ai-resume-buider.vercel.app/"
     },
     {
       "id": 6,
