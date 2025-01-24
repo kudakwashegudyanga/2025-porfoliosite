@@ -45,8 +45,8 @@ const About = () => {
 
     <section className="about-text">
       <p>
-      Hello! I'm a full-stack software engineering student at Uncommon.
-       I'm proficient in HTML, CSS, JavaScript, React, Python, Node.js, Express, and MongoDB.
+      Hello! I'm a full-stack software engineer.
+       I'm proficient in Webdevelopment, app development, AI and ML and Data science.
         I'm passionate about building dynamic and scalable web applications. Let's connect to collaborate on exciting projects
       </p>
 

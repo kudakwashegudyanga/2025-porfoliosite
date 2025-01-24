@@ -36,9 +36,10 @@
     },
     {
       "id": 6,
-      "title": "MetaSpark",
+      "title": "Watchsite",
       "category": "Web design",
-      "image": "images/project-6.png"
+      "image": "./images/watchsite.png"
+      "href" : "https://threejs-watchsite.vercel.app/"
     },
     {
       "id": 7,
