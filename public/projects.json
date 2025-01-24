@@ -10,7 +10,8 @@
       "id": 2,
       "title": "Orizon",
       "category": "Web development",
-      "image": "images/project-2.png"
+      "image": "images/ekomespro.png",
+      "href" : "https://ecomerce-site-taupe.vercel.app/"
     },
     {
       "id": 3,
@@ -22,7 +23,7 @@
       "id": 4,
       "title": "Brawlhalla",
       "category": "Applications",
-      "image": "images/project-3.jpg"
+      "image": "images/ekomespro.png"
     },
     {
       "id": 5,
